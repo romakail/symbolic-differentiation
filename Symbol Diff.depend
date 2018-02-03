@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1512935651 source:/root/Desktop/Symbol Diff/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<assert.h>
+	<cmath>
+	"tree.h"
+	"diff.h"
+
+1513733368 /root/Desktop/Symbol Diff/tree.h
+	"commands.h"
+
+1513733542 source:/root/Desktop/Symbol Diff/tree.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<assert.h>
+	<cmath>
+	"tree.h"
+	"commands.h"
+
+1517567409 source:/root/Desktop/Symbol Diff/diff.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<assert.h>
+	<cmath>
+	"diff.h"
+	"simplifications.h"
+	"commands.h"
+	"commands.h"
+	"simplifications.h"
+	"simplifications.h"
+	"commands.h"
+	"commands.h"
+
+1513735581 /root/Desktop/Symbol Diff/diff.h
+	"tree.h"
+	"simplifications.h"
+
+1517570629 /root/Desktop/Symbol Diff/commands.h
+
+1511822696 /root/Desktop/Symbol Diff/simplifications.h
+

@@ -1,0 +1,6 @@
+digraph tree{
+rankdir=HR;
+head [label="nElements : 3"];
+elem7 [label="1"]elem8 [label="/"]elem9 [label="x"]elem8:<l>->elem7[color="red"];
+elem8:<r>->elem9[color="green"];
+}
